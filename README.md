@@ -18,14 +18,15 @@ The analysis serves a dual purpose:
 
 ## 🧾 Dataset used
 
-- **File Used**: `UberDataset.csv`  
+[- **File Used**: `UberDataset.csv`  
 - **Total Records**: 1156 entries  
 - **Columns**:
   - `START_DATE` & `END_DATE`: Date and time of ride start and end
   - `CATEGORY`: Type of trip (Business or Personal)
   - `START` & `STOP`: Pickup and drop-off locations
   - `MILES`: Distance travelled
-  - `PURPOSE`: Reason for ride (e.g., Meeting, Errand, Meal, etc.)
+  - `PURPOSE`: Reason for ride (e.g., Meeting, Errand, Meal, etc.)]
+  - (https://github.com/AkshatGupta0105/Uber-Data-Analysis-Project-using-Python/blob/main/UberDataset.csv)
 
 ---
 
